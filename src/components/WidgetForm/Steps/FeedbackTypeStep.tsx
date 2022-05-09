@@ -9,7 +9,7 @@ export function FeedbackTypeStep({ onFeedbackTypeChanged} : FeedbacktypeStepProp
     return(
         <>
             <header>
-                <span className="text-xl leading-6">Deixe seu feedback</span>
+                <span className="text-xl text-orange-300 leading-6">Deixe seu feedback</span>
 
                 <CloseButton />
             </header>
@@ -24,7 +24,7 @@ export function FeedbackTypeStep({ onFeedbackTypeChanged} : FeedbacktypeStepProp
                         type="button"
                         >
                             <img src={value.image.source} alt={value.image.alt} />
-                            <span>{value.title}</span>
+                            <span className="text-orange-300">{value.title}</span>
                         </button>
                     )
                 })
