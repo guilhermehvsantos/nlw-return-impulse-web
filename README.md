@@ -16,6 +16,7 @@ A react component develop during the NLW Return - Impulse by RocketSeat. Be awar
 
 
 - The Feedback Widget
+
 ![App Screenshot](https://i.ibb.co/2MRZ62j/2.jpg)
 
 
