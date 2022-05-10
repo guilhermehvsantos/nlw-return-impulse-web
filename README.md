@@ -4,8 +4,7 @@
 
 # 🔥 LightUsApp - Feedback Widget 💡
 
-A react component develop during the NLW Return - Impulse by RocketSeat
-
+A react component develop during the NLW Return - Impulse by RocketSeat. Be aware that this is only the front-end of the aplication, you can check the back-end on the server [directory](https://github.com/GuilhermeHVSantos/nlw-return-impulse-server)
 
 
 
