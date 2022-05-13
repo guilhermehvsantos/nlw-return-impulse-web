@@ -32,11 +32,11 @@ export function FeedbackContentStep({
         //     comment
         // })
 
-        await api.post('/feedbacks', {
-            type: feedbackType,
-            comment,
-            screenshot,
-        })
+//         await api.post('/feedbacks', {
+//             type: feedbackType,
+//             comment,
+//             screenshot,
+//         })
 
         setIsSendingFeedback(false);
         onFeedbackSent();
