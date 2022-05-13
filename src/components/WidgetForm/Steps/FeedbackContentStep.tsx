@@ -38,8 +38,11 @@ export function FeedbackContentStep({
 //             screenshot,
 //         })
 
+        setTimeout({
         setIsSendingFeedback(false);
-        onFeedbackSent();
+        onFeedbackSent()
+        }, 3000);
+
     }
 
     return(
