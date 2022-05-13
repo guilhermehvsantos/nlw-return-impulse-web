@@ -52,6 +52,12 @@ Start the application
   $ npm run start
 ```
 
+
+## 🏗️ Demo
+
+Try the App now here [lightUspApp](https://nlw-return-impulse-web-lightusapp.vercel.app/), but the back-end is not working. You wont be able to send a message.
+
+
 ## 🚀 References
 
  - [Rocketseat](https://www.rocketseat.com.br/)
@@ -61,7 +67,4 @@ Start the application
 For more information about me checkout my [github](https://github.com/GuilhermeHVSantos) or contact me on [Linkedin](https://www.linkedin.com/in/guilhermehvs/)
 
 
-## 🏗️ Demo
-
-Try the App now here [lightUspApp](https://nlw-return-impulse-web-lightusapp.vercel.app/), but the back-end is not working. You wont be able to send a message.
 
