@@ -21,7 +21,7 @@ A react component develop during the NLW Return - Impulse by RocketSeat. Be awar
 
 
 
-## 🛠️ Stack utilizada
+## 🛠️ Stacks
 
 - [React](https://pt-br.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
