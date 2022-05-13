@@ -37,11 +37,10 @@ export function FeedbackContentStep({
 //             comment,
 //             screenshot,
 //         })
+        setTimeout(()=>{}, 3000);
 
-        setTimeout({
         setIsSendingFeedback(false);
         onFeedbackSent()
-        }, 3000);
 
     }
 
